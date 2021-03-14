@@ -1,5 +1,4 @@
-# Exam-2
-====
+
 Bëåñß Reminders
 ====
 Bëåñß Reminders is a Django app to conduct web-based reminders. Visitors can input their contact details,
